@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from 'react-dom';
 import { Article, Brand, CTA, Feature, Navbar } from './comp'
 import { Footer, Blog, Features, Header, Possibility, Whatis} from './cont';
 import "./App.css"
