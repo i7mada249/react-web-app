@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.982e094d.css",
-    "main.js": "/react-gh-pages/static/js/main.dc80b9ce.js",
-    "static/media/ai.png": "/react-gh-pages/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/people.png": "/react-gh-pages/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.982e094d.css.map": "/react-gh-pages/static/css/main.982e094d.css.map",
-    "main.dc80b9ce.js.map": "/react-gh-pages/static/js/main.dc80b9ce.js.map"
+    "main.css": "/react-web-app/static/css/main.982e094d.css",
+    "main.js": "/react-web-app/static/js/main.85a17ea4.js",
+    "static/media/ai.png": "/react-web-app/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/react-web-app/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-web-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-web-app/index.html",
+    "main.982e094d.css.map": "/react-web-app/static/css/main.982e094d.css.map",
+    "main.85a17ea4.js.map": "/react-web-app/static/js/main.85a17ea4.js.map"
   },
   "entrypoints": [
     "static/css/main.982e094d.css",
-    "static/js/main.dc80b9ce.js"
+    "static/js/main.85a17ea4.js"
   ]
 }
