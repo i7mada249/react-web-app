@@ -27,14 +27,14 @@ a {
 }
 
 .gradient__text{
-    background: var(--color-text);
+    background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clop: text;
     -webkit-text-fill-color: transparent;
 }
 
 .section__padding{
-    padding: 4rem 6rem;
+    padding: 1.3rem 6rem;
 }
 
 .section__margin{
