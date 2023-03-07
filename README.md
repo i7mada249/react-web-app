@@ -1,7 +1,7 @@
 # ChatGPT-3 Website
 ReactJs, html, css
 
-=========================================================
+
 fully responsive, work on mobile, tablet & mainly desktop
 see te website online:
 https://i7mada249.github.io/react-web-app/
